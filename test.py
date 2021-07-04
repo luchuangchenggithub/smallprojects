@@ -1,2 +1,4 @@
 # -*-coding:utf-8 -*-
-a = '123123'
+
+
+print(i for i in range(1,11))
