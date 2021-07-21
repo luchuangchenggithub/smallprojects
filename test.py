@@ -1,4 +1,6 @@
 # -*-coding:utf-8 -*-
+import re
 
-
-print(tuple([i for i in range(1, 101) if i % 3 == 1]))
+a = [1,2,3,4,5,6]
+print(a.pop())
+'[{]}'
